@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohammadreza Talebi Targhi (moharnadreza)
+# 👋 Hello, I'm Mohammadreza Talebi Targhi (m0harnrnadreza)
 ## Software Engineer & Web Developer
 - 👀 **What I Do:** Building fast, responsive websites and practical web applications with clean front-end code, PHP/Laravel backends, security-aware implementation, and polished architectural visualization.
 - 🎤 *"Clean code and sharp design should feel effortless to the user — never to the developer behind it."* — Mohammadreza Talebi Targhi
@@ -6,7 +6,7 @@
 - 🎤 *"Every pixel in a render and every line in a codebase deserves the same attention to detail."* — Mohammadreza Talebi Targhi
 - 💼 **Open to Collaboration:** Actively seeking collaborations on web development, Laravel projects, cybersecurity-minded builds, and creative digital experiences.
 - 🌐 **Portfolio:** Visit **[mohammadrezatalebi.com](https://mohammadrezatalebi.com)**
-- 📫 **Connect with Me:** Reach out via email at **[moharnrnadreza@gmail.com](mailto:moharnrnadreza@gmail.com)**
+- 📫 **Connect with Me:** Reach out via email at **[m0harnrnadreza@gmail.com](mailto:m0harnrnadreza@gmail.com)**
 
 
 
