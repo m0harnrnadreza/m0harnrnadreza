@@ -6,7 +6,7 @@
 - 🎤 *"Every pixel in a render and every line in a codebase deserves the same attention to detail."* — Mohammadreza Talebi Targhi
 - 💼 **Open to Collaboration:** Actively seeking collaborations on web development, Laravel projects, cybersecurity-minded builds, and creative digital experiences.
 - 🌐 **Portfolio:** Visit **[mohammadrezatalebi.com](https://mohammadrezatalebi.com)**
-- 📫 **Connect with Me:** Reach out via email at **[m0harnrnadreza@gmail.com](mailto:m0harnrnadreza@gmail.com)**
+- 📫 **Connect with Me:** Reach out via email at **[hello@mohammadrezatalebi.com](mailto:hello@mohammadrezatalebi.com)**
 
 
 
