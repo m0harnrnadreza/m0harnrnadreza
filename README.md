@@ -21,7 +21,6 @@
 <img src="icons/powershell.png" width="40" height="40" alt="powershell" />
 <img src="icons/git.png" width="40" height="40" alt="git" />
 <img src="icons/github.png" width="40" height="40" alt="github" />
-<img src="icons/gitlab.png" width="40" height="40" alt="gitlab" />
 <img src="icons/nginx.png" width="40" height="40" alt="nginx" />
 <img src="icons/apache.png" width="40" height="40" alt="apache" />
 <img src="icons/cloudflare.png" width="40" height="40" alt="cloudflare" />
